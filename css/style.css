@@ -65,11 +65,3 @@ header h4 {
     -webkit-transition: all 0.3s ease-out;
   }
 }
- #myVideo {
-   position: fixed;
-   right: 0;
-   bottom: 0;
-   min-width: 100%;
-   min-height: 100%;
-   -webkit-filter: blur(3px);
- }
