@@ -28,10 +28,22 @@ header h2 {
   font-size: 80px;
   text-align: center;
 	margin-bottom: 30px;
+  color: #FFBFEC;
+  text-shadow:
+  -3px -3px 0 #000,
+  3px -3px 0 #000,
+  -3px 3px 0 #000,
+  3px 3px 0 #000;  
 }
 header h4 {
   font-family: 'Pacifico';
   text-align: center;
+  color: #FFBFEC;
+  text-shadow:
+  -2px -2px 0 #000,
+  2px -2px 0 #000,
+  -2px 2px 0 #000,
+  2px 2px 0 #000;  
 }
 
 @media only screen and (max-width: 500px) {
